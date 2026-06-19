@@ -1,9 +1,15 @@
-### Hakkımda
+  <h3>
+    <img src="https://img.shields.io/badge/-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Hakkımda-1a237e?style=for-the-badge" />
+  </h3>
 
-  - Yazılım geliştirme üzerine çalışıyorum
+ - Yazılım geliştirme üzerine çalışıyorum
   - C#, TypeScript ve Python ile projeler üretiyorum
-  - Güzellik merkezi otomasyon sistemi bitirme projemi tamamladım
+  - Veri analizine büyük ilgi duyuyorum, bu alanda projeler geliştiriyorum
+  - � Güzellik merkezi otomasyon sistemi bitirme projemi tamamladım
+  - � [Movie Data Analysis](https://github.com/emelyilmaz123/movie-data-analysis) — Python ile film verisi analizi
+  - � [Görsel Analiz](https://github.com/emelyilmaz123/gorsel_analiz) — TypeScript ile görsel analiz uygulaması
   - Kişisel blogum: [hakk-mda-blog.vercel.app](https://hakk-mda-blog.vercel.app)
+
 
   ---
 
