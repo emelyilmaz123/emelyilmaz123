@@ -1,5 +1,5 @@
   <h3>
-    <img src="https://img.shields.io/badge/-%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%20Hakkımda-1a237e?style=for-the-badge" />
+     <img src="https://img.shields.io/badge/✦%20Hakkımda%20✦-9c77b4?style=for-the-badge&logoColor=white" />
   </h3>
 
  - Yazılım geliştirme üzerine çalışıyorum
